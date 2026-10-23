@@ -33,6 +33,3 @@ Shri Radhe Ji Misthan Management System
 
 
 
-## 📸 Project Screenshot
-
-![Project Screenshot](img/dashboard.png)
