@@ -42,36 +42,36 @@ Shri Radhe Ji Misthan Management System
 
 # Employee Management System
 
-A Java-based Employee Management System with a graphical user interface built using Java Swing and MySQL.
+A Java-based Employee Management System built using Java Swing and MySQL.
 
 ## 🔐 Login Page
 
-![Login Page](Login.png)
+![Login Page](imgs/Login.png)
 
 ## 🏠 Dashboard
 
-![Dashboard](Dashboard.png)
+![Dashboard](imgs/Dashboard.png)
 
 ## ➕ Add Employee
 
-![Add Employee](Additem.png)
+![Add Employee](imgs/Additem.png)
 
 ## 👥 Customers
 
-![Customers](Customers.png)
+![Customers](imgs/Customers.png)
 
 ## 📦 Stock Management
 
-![Stock Management](Stock.png)
+![Stock Management](imgs/Stock.png)
 
 ## 💰 Sales Management
 
-![Sales Management](Sales.png)
+![Sales Management](imgs/Sales.png)
 
 ## 📋 Orders
 
-![Orders](Orders.png)
+![Orders](imgs/Orders.png)
 
 ## 📊 Reports
 
-![Reports](Reports.png)
+![Reports](imgs/Reports.png)
